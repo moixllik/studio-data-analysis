@@ -1,8 +1,9 @@
 # Data Analysis
 
-* [Proyectos en Español]()
+* [Proyectos en Español](./spanish/README.md)
 
-    * [Diccionario Quechua]()
+    * Diccionario Quechua
 
-* [Projetos em Português]()
-* [Projects in English]()
+* [Projetos em Português](./portuguese/README.md)
+
+* [Projects in English](./english/README.md)
