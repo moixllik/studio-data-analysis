@@ -1,9 +1,11 @@
 # Data Analysis
 
-* [Proyectos en Español](./spanish/README.md)
+* [Projects in English](./english/)
+
+* [Projetos em Português](./portuguese/)
+
+    * Sentimento dos Jornais
+
+* [Proyectos en Español](./spanish/)
 
     * Diccionario Quechua
-
-* [Projetos em Português](./portuguese/README.md)
-
-* [Projects in English](./english/README.md)
