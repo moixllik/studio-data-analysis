@@ -40,4 +40,5 @@ ax = df_final.plot(kind='bar', x='Vocal', y='Total', legend=False)
 
 ax.bar_label(ax.containers[0])
 
+plt.savefig('./fig-1.png')
 plt.show()
