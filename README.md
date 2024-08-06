@@ -1,11 +1,6 @@
 # Data Analysis
 
-* [Projects in English](./english/)
+## Projects
 
-* [Projetos em Português](./portuguese/)
-
-    * Sentimento dos Jornais
-
-* [Proyectos en Español](./spanish/)
-
-    * Diccionario Quechua
+* [(ES) Diccionario Quechua](./quechua/)
+* [(PT) Sentimento dos Jornais](./jornais/)
